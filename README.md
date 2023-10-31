@@ -42,13 +42,9 @@ Connect with me on:
 ## Projects
 
 
-## Contact
-
-- **Email**: 
-
 ## Additional Information
 
-Other Interests: mountain sports (skiing, hiking, mountain biking), travel, climate change
+Other Interests: mountain sports (skiing, hiking, mountain biking), travel, climate change prevention and adaption
 
 ## References
 
