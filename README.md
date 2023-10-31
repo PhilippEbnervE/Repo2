@@ -9,17 +9,21 @@ Connect with me on:
 - **GitHub Website**: [Website](https://github.com/PhilippEbnervE)
 
 ## Skills
+### General
+`Data Analysis` `Financial Risk Management` `Statistical Analysis``Data Interpretation` `Time Series Analysis`
 
-- `Data Analysis`, `Machine Learning, `Financial Risk Management`  - `Python`
-- `R`                          - `Dat'a Visualization`
-- `Statistical Analysis`       - `Predictive Modeling`
-- `Data Cleaning`              - `Data Mining`
-- `SQL`                        - `Data Interpretation`
-- - `Time Series Analysis`
+### Machine Learning
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-FF6F61?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![PyCaret](https://img.shields.io/badge/PyCaret-00A5AB?style=for-the-badge&logo=pycaret&logoColor=white)](https://pycaret.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
-<span style="background-color:#11111; color:#FFFFFF; padding: 6px 12px; border-radius: 5px; font-family: 'Arial', sans-serif; font-weight: bold;">SQL</span>
-<span style="background-color:#44BD32; color:#FFFFFF; padding: 6px 12px; border-radius: 5px; font-family: 'Arial', sans-serif; font-weight: bold;">Python</span>
+### Coding
+[![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Python](https://img.shields.io/badge/Python-44BD32?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
+### Visualization
+[![Tableau](https://img.shields.io/badge/Tableau-009B75?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-00ACDC?style=for-the-badge&logo=looker&logoColor=white)](https://looker.com/)
 
 
 ## Certifications
